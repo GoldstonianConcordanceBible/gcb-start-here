@@ -64,5 +64,7 @@ If you want a clean entry point, start with:
 
 If you want the organized structure in one place:
 
-- Volume I: {cta.amazon} | {cta.walmart}  
-- Start Here playlist: {cta.youtube} | {cta.rumble}
+- amazon: "[LINK: https://www.amazon.com/dp/B0GH6B3T91?binding=paperback&ref=dbs_dp_awt_sb_pc_tpbk]"
+- walmart: "[LINK: https://www.walmart.com/ip/The-Goldstonian-Concordance-Bible-Volume-V-Jesus-the-Church-and-the-Walk-Paperback-9798245935058/19387573443]"
+- youtube: "[LINK: https://youtube.com/playlist?list=PLtS4zDr2sp3SNdsQcEd__FBDhhX1vwTlx&si=E0JCNAycdA4FO2NE]"
+---
