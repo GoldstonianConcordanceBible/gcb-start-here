@@ -1,0 +1,24 @@
+{
+  "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
+  "@type": "SoftwareSourceCode",
+  "name": "Goldstonian Concordance Bible Specification (GCB-SPEC)",
+  "description": "Specification repository defining the machine-readable hermeneutic, ontology, schemas, datasets, and agent protocol for the Goldstonian Concordance Bible (Mirror–Water–Fire).",
+  "license": "https://spdx.org/licenses/MIT.html",
+  "codeRepository": "https://github.com/GoldstonianConcordanceBible/GCB-SPEC",
+  "programmingLanguage": ["Markdown", "YAML", "JSON"],
+  "author": {
+    "@type": "Person",
+    "givenName": "Justin",
+    "familyName": "Goldston",
+    "affiliation": {
+      "@type": "Organization",
+      "name": "SydTek University"
+    }
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "SydTek University"
+  },
+  "version": "1.0.0",
+  "datePublished": "2026-03-03"
+}
