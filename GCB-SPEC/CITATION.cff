@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+title: Goldstonian Concordance Bible Specification (GCB-SPEC)
+message: If you use this specification or derived datasets/ontologies, please cite it.
+type: software
+authors:
+  - family-names: Goldston
+    given-names: Justin
+    affiliation: SydTek University
+repository-code: https://github.com/GoldstonianConcordanceBible/GCB-SPEC
+license: MIT
+version: 1.0.0
+date-released: 2026-03-03
+keywords:
+  - theology
+  - computational theology
+  - biblical hermeneutics
+  - knowledge graph
+  - ontology
+  - dataset
